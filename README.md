@@ -58,3 +58,5 @@ JobNotes-Application-Analysis
 3. **数据分析**
    - `Code/analysis_query.sql` 包含投递状态统计、转化率计算、多维度交叉分析等常用查询
    - 可基于表结构扩展更多维度的分析与统计
+## 数据看板
+![求职助手数据看板](./dashboard/JobNotes_Application_Performance.jpg)
